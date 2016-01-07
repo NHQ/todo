@@ -2,7 +2,7 @@
 
 A starter todo app using redux state control.
 
-see [](./entry.js) for use, or ```git clone```, ```npm install```, and run ```node entry.js```
+see [entry.js](./entry.js) for use, or ```git clone```, ```npm install```, and run ```node entry.js```
 
 ## API
 
